@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Things I Like
+title: things I like
 permalink: /things-shanti-likes
 ---
 <ul>
