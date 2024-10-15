@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Things Shanti Likes
-permalink: /about/
+permalink: /things-shanti-likes
 ---
 
 
