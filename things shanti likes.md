@@ -1,4 +1,11 @@
-<h1> Stuff I like </h1> 
+---
+layout: page
+title: Things Shanti Likes
+permalink: /about/
+---
+
+
+<h1> Things I like </h1> 
 <ul>
   
 <b> To do </b>
