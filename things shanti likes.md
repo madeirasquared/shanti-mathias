@@ -3,9 +3,6 @@ layout: page
 title: Things Shanti Likes
 permalink: /things-shanti-likes
 ---
-
-
-<h1> Things I like </h1> 
 <ul>
   
 <b> To do </b>
