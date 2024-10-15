@@ -1,5 +1,5 @@
 remote_theme: aterenin/minima-reboot
-footer_icons: shanti, elsewhere
+footer_icons:
   - username: Mostly Good Ideas 
     url: https://mostlygoodideas.nz/
   - username: Daylight Differentials
