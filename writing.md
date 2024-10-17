@@ -1,6 +1,8 @@
+---
 layout: page
 title: writing
 permalink: /writing
+---
 
 **writing for the spinoff**
 
