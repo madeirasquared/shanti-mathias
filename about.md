@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<img src="PXL_20231216_035250760.jpg" alt="Shanti, a young woman with medium length quite dark hair sits on some steps in the sunshine wearing a grean slip dress and a slightly wonky homemade indigo hat" width="1000"/>
+<img src="/assets/PXL_20231216_035250760.jpg" alt="Shanti, a young woman with medium length quite dark hair sits on some steps in the sunshine wearing a grean slip dress and a slightly wonky homemade indigo hat" width="1000"/>
 
 Shanti Mathias is a journalist, zine-maker and cyclist currently based between Ōtautahi and Tāmaki Makaurau. I've worked for The Spinoff for the last three years
 where I've covered two elections and been to the Chatham Islands once. Before that I was a news and features writer at the very cool student magazine Salient. 
