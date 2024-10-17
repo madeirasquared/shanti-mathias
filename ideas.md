@@ -1,6 +1,8 @@
+---
 layout: page
 title: Ideas
 permalink: /ideas
+---
 
 Some of the things I'm currently thinking about 
 
