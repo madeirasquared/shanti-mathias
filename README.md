@@ -13,5 +13,5 @@ she likes lush flower trees and little puzzles and eating kale from the garden
 
 she is currently twenty five and doesn't really know much about the world. 
 
-![Shanti playing viola by Queenstown lake](assets/shanti_by_lake_resized.jpg)
+![Shanti playing viola by Queenstown lake](/assets/shanti_by_lake_resized.jpg)
 
