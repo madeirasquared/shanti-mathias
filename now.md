@@ -12,7 +12,8 @@ biking, running, planning [low-carbon adventures](https://mostlygoodideas.nz/zin
 
 learning about liberation theology, how to adjust sewing and knitting patterns, how to spin on an Ashford Traditional 
 
-making friends with Ōtautahi| Christchurch! 
+making friends with Ōtautahi| Christchurch 
+
 
 trying to learn how to think more visually! Sketching, illustrating zines, going to the art gallery
 
