@@ -6,7 +6,7 @@ permalink: /about/
 
 ![Shanti, a young woman with medium length quite dark hair sits on some steps in the sunshine wearing a green slip dress and a slightly wonky homemade indigo hat](/assets/shanti_by_steps_resized.jpg)
 
-Shanti Mathias is a journalist, zine-maker and cyclist currently based between Ōtautahi and Tāmaki Makaurau. I've worked for The Spinoff for the last three years
+I'm Shanti Mathias, a journalist, zine-maker and cyclist currently based between Ōtautahi and Tāmaki Makaurau. I've worked for The Spinoff for the last three years
 where I've covered two elections and been to the Chatham Islands once. Before that I was a news and features writer at the very cool student magazine Salient. 
 I have Indian and Pākeha heritage, and was lucky enough to grow up between both India and Aotearoa. My parents work has really inspired me, and I'm lucky to
 have been exposed to lots of different circumstances, from small Himalayan villages to Delhi slums to the wilds of Mount Roskill to a very privileged boarding 
