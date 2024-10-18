@@ -10,7 +10,7 @@ _music_ | What does it mean to practice? What does it mean for the value of some
 
 _liberation_ | Is it a good synonym for salvation? What does work that is directed towards freedom look like? 
 
-_gifts_ | How do I get things that I want without being very demanding? What does it mean to give a good gift? 
+_gifts_ | How do I get things that I want without being very demanding? What does it mean to give a good gift? Or a wise gift, even? What does it mean to give gifts without succumbing to materialism? 
 
 _the climate_ | How am I letting climate change reshape my imagination? 
 
