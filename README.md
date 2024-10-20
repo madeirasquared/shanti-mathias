@@ -7,7 +7,7 @@ she is currently very into samantha shannon books
 
 she often forgets about the bread she is making 
 
-she is not fast at running 
+she is not fast at running but she does run  
 
 she likes lush flower trees and little puzzles and eating kale from the garden 
 
