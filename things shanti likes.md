@@ -28,9 +28,10 @@ permalink: /things-shanti-likes
 
 <li>Toothbrushes </li>
 
-<li>Kobo </li>
+<li><a href="https://www.kobo.com/"> Kobos</a> </li>
 
-<li>The app Spectrolite </li>
+<li>The app 
+<a href="https://spectrolite.app/">Spectrolite</a> </li>
 
 <li>The public library </li>
 
