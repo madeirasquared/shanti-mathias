@@ -34,6 +34,10 @@ _reporting_
 
 The interview process is the hardest and weirdest and best and most magical part of being a journalist, the part I would find it so hard to stop doing. How can I report more? Where should I report from? 
 
-_making_ | How do I get better at chain plying? Should I get a spinning wheel? How do I stop my love of making things from becoming a love of buying things? Do I need a drop-waist skirt? What clothes can I make for a life that involves lots of time on bicycles? How can my bucket hat pattern be improved? 
+_making_ 
 
-_publishing_ | There are so many zines to make! I want to learn to draw maps, maybe. I want to collaborate with Shreyas on things - a biking zine? I want to exchange my written work with more people. 
+How do I get better at chain plying? Should I get a spinning wheel? How do I stop my love of making things from becoming a love of buying things? Do I need a drop-waist skirt? What clothes can I make for a life that involves lots of time on bicycles? How can my bucket hat pattern be improved? 
+
+_publishing_
+
+There are so many zines to make! I want to learn to draw maps, maybe. I want to collaborate with Shreyas on things - a biking zine? I want to exchange my written work with more people. 
