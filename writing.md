@@ -18,7 +18,11 @@ _longreads_
 
 [Can Sandringham's South Asian flavour survive gentrification?](https://thespinoff.co.nz/kai/08-07-2024/can-sandringhams-south-asian-flavour-survive-gentrification) Lotta knocking on doors was required for this one
 
-[Staring down the silent epidemic of myopia in children](https://thespinoff.co.nz/society/15-04-2024/staring-down-the-silent-epidemic-of-childrens-myopia) Winner of the inaugural Science Media Centre Journalism award in 2024 in the junior category <3 I loved working on this one - it's an example of an issue that is important where known interventions could make a huge difference. 
+[Staring down the silent epidemic of myopia in children](https://thespinoff.co.nz/society/15-04-2024/staring-down-the-silent-epidemic-of-childrens-myopia) Winner of the inaugural Science Media Centre Journalism award in 2024 in the junior category <3 I loved working on this one - it's an example of an issue that is important where known interventions could make a huge difference.
+
+_below: any day I get to wear hi-vis is a good day. This was for the 'summer is for swimming'story vising a Central Interceptor site in Auckland_
+
+![Shanti on the job at a tunnel boring machine site thirty metres underground, wearing a hi vis boilersuit looking chuffed](/assets/IMG_1464(2).jpg)
 
 _fun stories_
 
@@ -30,11 +34,28 @@ _fun stories_
 
 [Inside an exclusive, chaotic, painful NFT party](https://thespinoff.co.nz/summer-2022/31-12-2022/inside-an-exclusive-chaotic-painful-nft-party) Would NOT recommend attending an NFT party! 
 
+_stories I really love and think are important_
+[The 'third world' isn't the bogeyman New Zealand media and politicians make it out to be](https://thespinoff.co.nz/media/26-05-2023/the-third-world-isnt-the-bogeyman-new-zealand-seems-to-think-it-is) Using 'third world' in a derogatory way goes to show how ignorant it is to assume that places where brown people live are bad. See also [Dileepa Foneska's examination](https://businessdesk.co.nz/article/economy/nz-and-third-world-lessons-for-politicians-and-businesspeople) of what Aotearoa can learn from the 'third world' for BusinessDesk. Mostly I wrote this because hearing 'third world' on the radio every second morning makes me feel like I'm losing my mind. 
+
+[If there was a disaster next week, where would you go for food?](https://thespinoff.co.nz/kai/20-03-2024/if-there-was-a-disaster-next-week-where-would-you-go-for-food) Loved doing lots of reporting for this, talking to food rescue organisations and academics and having to think about climate disaster in practical terms. 
+
+[New Zealand isn't doing enough to fund climate action. This is how we know](https://thespinoff.co.nz/politics/13-09-2024/new-zealand-isnt-doing-enough-to-fund-climate-action-this-is-how-we-know) The journalist's curse is that you read some bland report about cliamte funding and then discover that it is interesting and important and the details seriously matter
+
+[From fish to flour to feta, snow feeds us all](https://thespinoff.co.nz/kai/10-07-2024/from-fish-to-flour-to-feta-snow-feeds-us-all) Figuring out how to conect these ideas about snowmelt and crops was quite difficult but I'm glad that I managed to pull it together.
+
+[Sinking lids and rising profits: the problem with pokies](https://thespinoff.co.nz/society/25-06-2024/sinking-lids-and-rising-profits-the-problem-with-pokies) Tfw you think 'hey did that new policy a council put in place a few years ago actually work?' 
+
+[Supermarkets know everything about you, from your gender to your license plate number. Do you care?](https://thespinoff.co.nz/society/25-03-2024/supermarkets-know-everything-from-your-gender-to-licence-plate-number-do-you-care) Surveillance is so normal and yet we must question it, must try to keep noticing it.
+
+[Why so many nurses move to New Zealand and don't plan to stick around](https://thespinoff.co.nz/society/12-07-2024/why-so-many-nurses-move-to-new-zealand-but-dont-plan-to-stick-around) Some of the same ground as my Indian international students story: people act within immigration settings in particular ways, and yet the consequences are so unpredictable.
+
 **creative writing**
 
 _essays_
 
 [I grew up riding trains across India](https://thespinoff.co.nz/society/19-02-2023/the-sunday-essay-i-grew-up-riding-trains-across-india)
+
+
 [What I learned - and didn't learn - from four years of homeschooling](https://thespinoff.co.nz/society/10-10-2024/what-i-learned-and-didnt-learn-from-four-years-of-home-education) Aka what was Shanti's childhood like? Kinda unusual but also great! 
 
 [Knots](https://www.starlingmag.com/issue-9/shanti-mathias), published in Starling Magazine. 
@@ -43,9 +64,14 @@ _short stories_
 
 If you somehow come across a copy of Sick Leave Journal's 'fiction' issue from 2021, there is a story I wrote in there! I think it's pretty good. If you are unlikely to run across copies of small Australian literary journals, email me and I can send you a pdf of the story probably. It involves cousins, pyramid schemes and anxious 19 year olds. 
 
+_newsletters_
+[The American-ness of Christian memes](https://www.modernrelics.email/the-american-ness-of-christian-memes/) Rohan Salmond of the WONDERFUL newsletter Modern Relics let me write a post! 
+
+[The next big target for disinformation? Climate change.](https://spinofffutureproof.substack.com/p/the-next-big-target-for-disinformation) I subbed in for [Ellen Rykers](https://www.ellenrykers.com/) and wrote an edition of Future Proof, her Spinoff newsletter focused on climate change 
+
 _poetry_
 I write one good poem every two years! My dear friend Naomii has pointed out that the hit rate would be higher if I wrote more. Maybe one day some of these poems will come to live on this website, who knows? 
 
 **zines**
 
-Mostly Good Ideas is the publishing imprint for my zines. You can find a full copy of [How to have a low-carbon adventure](https://mostlygoodideas.nz/zine) I might upload the full copies of my portent zines when there are more additions to the series. More zines are under way! 
+Mostly Good Ideas is the publishing imprint for my zines. You can find a full copy of [How to have a low-carbon adventure](https://mostlygoodideas.nz/zine) I might upload the full copies of my portent zines when there are more additions to the series. More zines are under way! The zines that I love most though are one-off zines produced for one specific person, a form of communication I can only wholeheartedly endorse! 
