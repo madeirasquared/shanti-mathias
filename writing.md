@@ -22,7 +22,7 @@ _longreads_
 
 _below: any day I get to wear hi-vis is a good day. This was for the 'summer is for swimming'story vising a Central Interceptor site in Auckland_
 
-![Shanti on the job at a tunnel boring machine site thirty metres underground, wearing a hi vis boilersuit looking chuffed](/assets/IMG_1464(2).jpg)
+![Shanti on the job at a tunnel boring machine site thirty metres underground, wearing a hi vis boilersuit looking chuffed](/shanti-mathias/assets/IMG_1464(2).jpg)
 
 _fun stories_
 
