@@ -36,7 +36,7 @@ permalink: /reading
 <ul>
 <li>Parallel Lives by Phyllis Rose</li>
 <li>Romantic Outlaws by Charlotte Gordon</li>
-<li>Super-Infinite by Catherine Rundell </li>
+<li>Super-Infinite by Katherine Rundell </li>
 </ul>
 
 <b>Food books (mostly recipes) </b>
