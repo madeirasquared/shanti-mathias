@@ -6,8 +6,8 @@ permalink: /reading
 
 <p>Here are some books that have really informed how I think, that I find myself returning to again and again, and recommending whole-heartedly. Most of them were extremely enjoyable reads; some were more of a struggle but ultimately worth it. If you’ve read any of these and really want to discuss, please send me a message, I love to talk about books! They’re loosely categorised but please know that most of the novels I list could also be listed as books about power, for example. There is a strong recency bias on this list but hopefully I can keep updating it. This list is also much more American/British than I would like, which is something I am slowly working to change. I’m especially interested in recommendations for really great biographies that AREN’T about British literary figures… but they have to be really great.</p> 
 
-
 <b>Reported books </b>
+
 <ul>
 <The End of Night by Paul Bogard
 <li>Private Revolutions by Yuan Yang</li>
@@ -23,6 +23,7 @@ permalink: /reading
 </ul>
 
 <b>Essays </b>
+
 <ul>
 <li>Bad Archive by Flora Feltham </li>
 <li>The Utopia of Rules by David Graeber</li>
@@ -31,6 +32,7 @@ permalink: /reading
 </ul>
 
 <b>Biography </b>
+
 <ul>
 <li>Parallel Lives by Phyllis Rose</li>
 <li>Romantic Outlaws by Charlotte Gordon</li>
@@ -38,6 +40,7 @@ permalink: /reading
 </ul>
 
 <b>Food books (mostly recipes) </b>
+
 <ul>
 <li>Homegrown Kitchen by Nicola Galloway </li>
 <li>Please to the Table by Anya von Bremzen </li>
@@ -47,6 +50,7 @@ permalink: /reading
 </ul>
 
 <b>Novels </b>
+
 <ul>
 <li>Middlemarch by George Eliot</li>
 <li>Sabriel by Garth Nix </li>
@@ -59,6 +63,7 @@ permalink: /reading
 </ul>
 
 <b>Poetry </b>
+
 <ul>
 <li>Hera Lindsay Bird by Hera Lindsay Bird</li>
 <li>How to Live With Mammals by Ash Davida Jane</li>
@@ -67,6 +72,7 @@ permalink: /reading
 </ul>
 
 <b>Currently reading/want to read soon </b>
+
 <ul>
 <li>Pathologies of Power by Paul Farmer</li>
 <li>Development as Freedom by Amartya Sen</li>
