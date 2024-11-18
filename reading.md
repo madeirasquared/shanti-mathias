@@ -9,7 +9,7 @@ permalink: /reading
 <b>Reported books </b>
 
 <ul>
-<The End of Night by Paul Bogard
+<li>The End of Night by Paul Bogard</li>
 <li>Private Revolutions by Yuan Yang</li>
 <li>A Moonless, Starless Sky by Alexis Okeowo</li>
 <li>Karachi Vice by Samira Shackle </li>
