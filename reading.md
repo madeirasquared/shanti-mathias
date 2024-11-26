@@ -29,6 +29,7 @@ permalink: /reading
 <li>The Utopia of Rules by David Graeber</li>
 <li>Hope in the Dark by Rebecca Solnit (kinda dated now but I absolutely read it at the right time)</li>
 <li>Azadi by Arundhati Roy (2022 edition)</li>
+<li>Having and Being Had by Eula Biss</li>
 </ul>
 
 <b>Biography </b>
