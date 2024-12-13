@@ -87,4 +87,4 @@ I write one good poem every two years! My dear friend Naomii has pointed out tha
 
 **zines**
 
-Mostly Good Ideas is the publishing imprint for my zines. You can find a full copy of [How to have a low-carbon adventure](https://mostlygoodideas.nz/zine) I might upload the full copies of my portent zines when there are more additions to the series. More zines are under way! The zines that I love most though are one-off zines produced for one specific person, a form of communication I can only wholeheartedly endorse! 
+Mostly Good Ideas is the publishing imprint for my zines. You can find a full copy of [How to have a low-carbon adventure](https://mostlygoodideas.nz/zine). I also have a series of zines about portents that will be uploaded in full one day. More zines are under way!
