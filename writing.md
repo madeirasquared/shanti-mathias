@@ -62,18 +62,27 @@ _essays_
 
 _short stories_
 
+
 My short story '[getting closer](https://turbinekapohau.org.nz/2024-contents-fiction-shanti-mathias/)' appears in the 2024 edition of IIML literary journal Turbine | Kapohau. You should read it, it involves anxious 19 year olds, a random austrian man and the jungle.
+
 
 If you somehow come across a copy of [Sick Leave Journal's](https://www.instagram.com/sickleave__/?hl=en) 'fiction' issue from 2021, there is a story I wrote in there! I think it's pretty good. If you are unlikely to run across copies of small Australian literary journals, email me and I can send you a pdf of the story probably. It involves cousins, pyramid schemes and anxious 19 year olds. 
 
+
 _newsletters_
+
+
 [The American-ness of Christian memes](https://www.modernrelics.email/the-american-ness-of-christian-memes/) Rohan Salmond of the WONDERFUL newsletter Modern Relics let me write a post! 
 
 [The next big target for disinformation? Climate change.](https://spinofffutureproof.substack.com/p/the-next-big-target-for-disinformation) I subbed in for [Ellen Rykers](https://www.ellenrykers.com/) and wrote an edition of Future Proof, her Spinoff newsletter focused on climate change.
 
+
 I also wrote The Spinoff's The Weekend newsletter for two years. 
 
+
 _poetry_
+
+
 I write one good poem every two years! My dear friend Naomii has pointed out that the hit rate would be higher if I wrote more. Maybe one day some of these poems will come to live on this website, who knows? 
 
 **zines**
