@@ -28,6 +28,8 @@ permalink: /things-shanti-likes
 
 <li>Toothbrushes </li>
 
+<li>Trade paperbacks (a sadly dying breed)</li>
+
 <li><a href="https://www.kobo.com/"> Kobos</a> </li>
 
 <li>The app 
