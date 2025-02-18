@@ -11,7 +11,7 @@ permalink: /things-shanti-likes
 
 <li> Write dramatic emails to my friends 
 </li>
-<li>Read a book in the sunshine while eating green apples</li>
+<li>Read a book in the sunshine while eating green apples or table grapes</li>
 
 <li>Try unusual fizzy beverages </li>
 
