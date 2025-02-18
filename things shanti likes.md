@@ -90,8 +90,34 @@ permalink: /things-shanti-likes
 
 <li>My holds shelf at the library </li>
 
+<li>Interesting lichen</li>
+
 <li>Bubbles in my kombucha</li>
 
 <li>My beautiful friends </li>
 </ul>
+
+<ul>
+  <b> To listen to</b>
+  
+  <li>The album  
+<a href="[https://open.spotify.com/album/5n5ADo7TXPLzQ5IEvG3Qbu?si=mpGBYuA2R_WdMRXp_8OxvA]">Force of Nature</a> </li>
+  
+  <li> 
+<a href="[https://paperdragon.nz/]">Paper Dragon</a> </li>
+  
+  <li>The sound of my bike tyres on an empty, quiet road at night</li>
+  
+  <li>Podcasts, probably more than is healthy</li>
+  
+  <li>Little wild urban streams in flood (for more on urban streams read Water Always Wins by Erica Gies!!!)</li>
+
+  <li>Tūī when the kōwhai are flowering</li>
+
+  <li>Vegetable bartering in Indian bazaars </li>
+
+  <li>Teenagers gossiping about their sisters on the train</li>
+</ul>
+
+
 
