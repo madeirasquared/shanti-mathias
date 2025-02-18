@@ -14,6 +14,7 @@ permalink: /reading
 <li>A Moonless, Starless Sky by Alexis Okeowo</li>
 <li>Karachi Vice by Samira Shackle </li>
 <li>If We Burn by Vincent Bevins </li>
+<li>Water Always Wins by Erica Gies </li>
 <li>All Day Long by Joanna Biggs</li>
 <li>Phantom Plague by Vidya Krishnan </li>
 <li>No Logo by Naomi Klein</li>
