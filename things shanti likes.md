@@ -46,7 +46,7 @@ permalink: /things-shanti-likes
 
 <li>Sourdough toast </li>
 
-<li>Crackers from <a href= "https://www.homegrown-kitchen.co.nz/homegrown-kitchen-cookbook/" Nicola Galloway’s recipe book</a> with <a href= "https://sonntag.nz/"> Sonntagg cheeses</a></li>
+<li>Crackers from <a href= "https://www.homegrown-kitchen.co.nz/homegrown-kitchen-cookbook/" Nicola Galloway’s recipe book</a> with <a href= "https://sonntag.nz/"> Sonntag cheeses</a></li>
 
 <li>Dal with lots of lemon and kale </li>
 
