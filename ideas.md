@@ -20,15 +20,15 @@ How do I get things that I want without being very demanding? What does it mean 
 
 _the climate_
 
-How am I letting climate change reshape my imagination? 
+How am I letting climate change reshape my imagination? What community networks around me can I be part of, since I believe community connection is a key part of resilience? 
 
 _fermentation_ 
 
-What should I do to make better water kefir? 
+What should I do to make better water kefir? Could I make a stronger natural dye by fermenting walnuts?
 
 _reading_
 
-How can I be so compelled by what other people read? What are the South Asian books, especially novels, which I should read? What does it mean to 'have' to read something? 
+What makes me listen to a recommendation? What are the South Asian books, especially novels, which I should read? What does it mean to 'have' to read something? _2025 update: am experimenting with finding some answers to this by going a year without reading books by Americans... don't worry Americans I still read lots of your journalism..._ 
 
 _reporting_ 
 
@@ -36,8 +36,8 @@ The interview process is the hardest and weirdest and best and most magical part
 
 _making_ 
 
-How do I get better at chain plying? Should I get a spinning wheel? How do I stop my love of making things from becoming a love of buying things? Do I need a drop-waist skirt? What clothes can I make for a life that involves lots of time on bicycles? How can my bucket hat pattern be improved? 
+How do I get better at chain plying? Should I get a spinning wheel? How do I stop my love of making things from becoming a love of buying things? What is the role of trends in communicating with others? Which trends are world following? What clothes can I make for a life that involves lots of time on bicycles? How can my bucket hat pattern be improved? Where can I find good deals on ripstop nylon? 
 
 _publishing_
 
-There are so many zines to make! I want to learn to draw maps, maybe. I want to collaborate with Shreyas on things - a biking zine? I want to exchange my written work with more people. 
+There are so many zines to make! I want to learn to draw maps, maybe. I want to collaborate with Shreyas on things - a biking zine? I want to become more interested in practicing Hindi maybe via zine making! I want to exchange my written work with more people. 
