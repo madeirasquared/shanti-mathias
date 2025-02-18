@@ -62,8 +62,8 @@ permalink: /reading
 <li>The Priory of the Orange Tree by Samantha Shannon </li>
 <li>10:04 by Ben Lerner</li>
 <li>The End of Drum-Time by Hanna Pylväinen</li>
-</ul>
 <li>Quarterlife by Devika Rege</li>
+</ul>
 
 <b>Poetry </b>
 
