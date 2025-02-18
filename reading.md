@@ -13,7 +13,7 @@ permalink: /reading
 <li>Private Revolutions by Yuan Yang</li>
 <li>A Moonless, Starless Sky by Alexis Okeowo</li>
 <li>Karachi Vice by Samira Shackle </li>
-<li>If We Burn and The Jakarta Method by Vincent Bevins </li>
+<li>If We Burn by Vincent Bevins </li>
 <li>All Day Long by Joanna Biggs</li>
 <li>Phantom Plague by Vidya Krishnan </li>
 <li>No Logo by Naomi Klein</li>
@@ -62,6 +62,7 @@ permalink: /reading
 <li>10:04 by Ben Lerner</li>
 <li>The End of Drum-Time by Hanna Pylväinen</li>
 </ul>
+<li>Quarterlife by Devika Rege</li>
 
 <b>Poetry </b>
 
@@ -70,14 +71,4 @@ permalink: /reading
 <li>How to Live With Mammals by Ash Davida Jane</li>
 <li>The Dangerous Country of Love and Marriage by Amy Leigh Wicks </li>
 <li>John Keats (mostly because of a really great teacher I had who talked about it)</li>
-</ul>
-
-<b>Currently reading/want to read soon </b>
-
-<ul>
-<li>Pathologies of Power by Paul Farmer</li>
-<li>Development as Freedom by Amartya Sen</li>
-<li>Gender Regimes and the Politics of Privacy: A Feminist Re-Reading of Puttaswamy vs. Union of India by Kalpana Kannabiran, Swethaa S. Ballakrishnen (and a whole lot of other books from Zubaan that seem very hard to access outside of South Asia!) </li>
-<li>Best Young Woman Job Book by Emma Healey</li>
-<li>Seeing Like a State by James C. Scott </li>
 </ul>
