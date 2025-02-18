@@ -27,5 +27,4 @@ cheap change can make a big difference. At the moment I mostly tackle this throu
 community building and repairing and maintaining good things that are already going on as a way to feel tangibly connected to the world. 
 
 This website is a place to document some of the work I've done and the stuff I care about. Some of the ideas that I'm currently thinking through, books that have made a big
-difference in my life, writing I'm particularly proud of, both journalistic and otherwise. I'm not currently seeking work outside of my role at The Spinoff but will update
-this if that changes. If you want to contact me, get in touch! 
+difference in my life, writing I'm particularly proud of, both journalistic and otherwise. I'm currently working part-time for The Spinoff and am interested in other opportunities outside of this, especially to write about science, the climate, international aid and migration. If you want to contact me, get in touch: shanti.mathias@gmail.com
