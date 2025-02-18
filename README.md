@@ -3,8 +3,6 @@
 
 shanti is a journalist who has too many hobbies
 
-she is currently very into samantha shannon books 
-
 she often forgets about the bread she is making 
 
 she is not fast at running but she does run  
