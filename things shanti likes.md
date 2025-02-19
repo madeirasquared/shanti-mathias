@@ -30,6 +30,8 @@ permalink: /things-shanti-likes
 
 <li>Trade paperbacks (a sadly dying breed)</li>
 
+<li>Public transport!</li>
+
 <li><a href="https://www.kobo.com/"> Kobos</a> </li>
 
 <li>The app 
@@ -116,7 +118,7 @@ permalink: /things-shanti-likes
 
   <li>Vegetable bartering in Indian bazaars </li>
 
-  <li>Teenagers gossiping about their sisters on the train</li>
+  <li>Teenagers gossiping on the train</li>
 </ul>
 
 
