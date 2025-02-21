@@ -39,7 +39,7 @@ _stories I really love and think are important_
 
 [If there was a disaster next week, where would you go for food?](https://thespinoff.co.nz/kai/20-03-2024/if-there-was-a-disaster-next-week-where-would-you-go-for-food) Loved doing lots of reporting for this, talking to food rescue organisations and academics and having to think about climate disaster in practical terms. 
 
-[New Zealand isn't doing enough to fund climate action. This is how we know](https://thespinoff.co.nz/politics/13-09-2024/new-zealand-isnt-doing-enough-to-fund-climate-action-this-is-how-we-know) The journalist's curse is that you read some bland report about cliamte funding and then discover that it is interesting and important and the details seriously matter
+[New Zealand isn't doing enough to fund climate action. This is how we know](https://thespinoff.co.nz/politics/13-09-2024/new-zealand-isnt-doing-enough-to-fund-climate-action-this-is-how-we-know) The journalist's curse is that you read some bland report about cliamte funding and then discover that it is interesting and important and the details seriously matter.
 
 [From fish to flour to feta, snow feeds us all](https://thespinoff.co.nz/kai/10-07-2024/from-fish-to-flour-to-feta-snow-feeds-us-all) Figuring out how to conect these ideas about snowmelt and crops was quite difficult but I'm glad that I managed to pull it together.
 
