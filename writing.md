@@ -66,7 +66,7 @@ _short stories_
 My short story '[getting closer](https://turbinekapohau.org.nz/2024-contents-fiction-shanti-mathias/)' appears in the 2024 edition of IIML literary journal Turbine Kapohau. You should read it, it involves anxious 19 year olds, a random Austrian man and the jungle.
 
 
-If you somehow come across a copy of [Sick Leave Journal's](https://www.instagram.com/sickleave__/?hl=en) 'fiction' issue from 2021, there is a story I wrote in there! I think it's pretty good. If you are unlikely to run across copies of small Australian literary journals, email me and I can send you a pdf of the story probably. It involves cousins, pyramid schemes and anxious 19 year olds. 
+If you somehow come across a copy of [Sick Leave Journal's](https://www.instagram.com/sickleave__/?hl=en) 'fiction' issue from 2021, there is a story I wrote in there! I think it's pretty good. If you are unlikely to run across copies of small Australian literary journals, email me and I can send you a pdf of the story probably. It involves cousins, pyramid schemes and anxious 19 year olds. Don't worry I am now finished writing stories about anxious 19 year olds, I have moved on.
 
 
 _newsletters_
