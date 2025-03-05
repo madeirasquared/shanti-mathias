@@ -18,4 +18,6 @@ trying to learn how to think more visually! Sketching, illustrating zines, going
 
 making sourdough. trying to learn new techniques for better bread
 
+practicing my left-foot-forward cartwheels
+
 gardening! mostly growing kale and herbs, but am interested in growing flowers too
