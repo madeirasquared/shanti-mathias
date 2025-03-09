@@ -14,9 +14,8 @@ _liberation_
 
 Is it a good synonym for salvation? What does work that is directed towards freedom look like? 
 
-_gifts_
-
-How do I get things that I want without being very demanding? What does it mean to give a good gift? Or a wise gift, even? What does it mean to give gifts without succumbing to materialism? 
+_water_
+Which water systems are around me? How have they been hidden by human infrastructure? How is water a pattern that both societies and storytelling build off (mostly based on Water Always Wins by Erica Gies)
 
 _the climate_
 
@@ -24,7 +23,7 @@ How am I letting climate change reshape my imagination? What community networks 
 
 _fermentation_ 
 
-What should I do to make better water kefir? Could I make a stronger natural dye by fermenting walnuts?
+What should I do to make better water kefir? What do I need to learn about natural dye fermentation in order to start dyeing stuff?
 
 _reading_
 
